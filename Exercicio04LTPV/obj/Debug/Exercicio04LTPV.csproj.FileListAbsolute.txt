@@ -1,0 +1,37 @@
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.exe.config
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.exe
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.pdb
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmPrincipal.resources
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.exe
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.pdb
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmCadastroAluno.resources
+C:\Users\Daniel\source\repos\Exercicio04\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmEditorTexto.resources
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.exe.config
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.exe
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04LTPV.pdb
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmCadastroAluno.resources
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmEditorTexto.resources
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.FrmPrincipal.resources
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.exe
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.pdb
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04.LTPV.Data.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04.LTPV.Dominio.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\SimpleInjector.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04.LTPV.Data.pdb
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Exercicio04.LTPV.Dominio.pdb
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\SimpleInjector.xml
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04LTPV\obj\Debug\Exercicio04LTPV.csproj.CopyComplete

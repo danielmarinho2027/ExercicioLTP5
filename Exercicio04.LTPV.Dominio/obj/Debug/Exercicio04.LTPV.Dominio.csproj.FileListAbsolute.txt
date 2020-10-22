@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04.LTPV.Dominio\bin\Debug\Exercicio04.LTPV.Dominio.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04.LTPV.Dominio\bin\Debug\Exercicio04.LTPV.Dominio.pdb
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04.LTPV.Dominio\obj\Debug\Exercicio04.LTPV.Dominio.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04.LTPV.Dominio\obj\Debug\Exercicio04.LTPV.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04.LTPV.Dominio\obj\Debug\Exercicio04.LTPV.Dominio.dll
+C:\Users\Daniel\Desktop\Trabalho LTPV\Exercicio04-master\Exercicio04.LTPV.Dominio\obj\Debug\Exercicio04.LTPV.Dominio.pdb
